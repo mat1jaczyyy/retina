@@ -6,7 +6,7 @@ Retina can run on any Windows or macOS-based computer, and requires Max 7 to be 
 
 ## State of the project
 
-As of today, Retina has for the most part been abandoned. Its features have been superseded by my custom firmware for the Launchpad Pro. It's only really useful for MK2 users.
+As of today, Retina has for the most part been abandoned. Its features have been fully superseded by [the Launchpad Firmware Utility](https://fw.mat1jaczyyy.com). In addition to supporting the X and MK3, it works by directly modifying the palette stored on the Launchpad's firmware, ensuring no CPU hogging. Retina today is only really useful for MK2 users looking to get Top Lights without Max for Live.
 
 After the release of Retina 2.1, ideas sparked that made it possible to use as Max for Live device, which would bypass additional installation procedures required to make Retina work. Several approaches to this were tried, however none worked in full, thus the the "3.0" update was never finished. You can find what's left of those in `/experimental`.
 
